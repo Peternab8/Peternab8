@@ -1,36 +1,39 @@
 # Hi, I'm Peter Nabil 👋
 
-**Data Analyst | Business Intelligence | Business Analysis**
+**Data Analyst | Business Intelligence | Business Analysis**  
+📍 Cairo, Egypt · 🎓 Business Information Systems (BIS), Helwan University — First-Class Honors (2026)
 
-📍 Cairo, Egypt · 🎓 Business Information Systems (BIS), Helwan University
+I turn messy data into useful insights and everyday operational problems into practical solutions. My projects cover **data cleaning, SQL analysis, BI dashboards, database design, system analysis, and workflow automation**.
 
-I enjoy turning messy data into clear insights and building practical solutions to real business problems. My work covers the full process: **understanding a problem, preparing data, analyzing it, and presenting useful results**.
+I'm open to **junior opportunities in Data Analytics, Business Intelligence, and Business Analysis**.
 
-## 🛠️ Skills & Tools
+## 📌 Selected projects
 
-- **Data analysis:** Excel, SQL, Python (Pandas), statistics, data cleaning
-- **Business intelligence:** Power BI, Tableau, dashboards, KPI reporting
-- **Databases:** SQL Server, MySQL, relational database design
-- **Process improvement:** Excel VBA, workflow automation, business and system analysis
+| Project | What I worked on | Tools / focus |
+| --- | --- | --- |
+| 📊 **[Student Performance Analysis](https://github.com/Peternab8/Student-Performance-Analysis)** | Explored factors associated with exam scores and built an interactive dashboard. | Python · SQL Server · Power BI |
+| 💳 **[Digital Payments Analysis](https://github.com/Peternab8/Digital-Payments-Analysis)** | Analyzed a transaction dataset and documented a reproducible data-quality refresh. | Pandas · SQLite · SQL |
+| 🎫 **[Event Booking Management System](https://github.com/Peternab8/Event-Booking-Management-System)** | Built an Excel/VBA tool for recording and finding event bookings and preparing manual WhatsApp confirmations. | Excel · VBA · Process automation |
+| 🎓 **[MASAR — System Analysis](https://github.com/Peternab8/MASAR-System-Analysis)** | Collaborated on requirements and system-design documentation for a team graduation project (Chapters 3–4). | Requirements · UML · ERD · Workflows |
 
-## 📌 Featured Projects
+### 🚧 Currently building: FeeLink
 
-### 📊 [Student Performance Factors Analysis](https://github.com/Peternab8/Student_Performance_Factors)
-An end-to-end analysis of factors associated with academic performance, using **Python, SQL Server, and Power BI**. Includes a notebook, SQL queries, cleaned data, and dashboard visuals.
+**FeeLink** is an Arabic-first **organization portfolio and event management platform** in active development. It aims to combine a public presence for organizations with event discovery, general-admission and reserved-seat booking, and an operations workspace.
 
-### 🗃️ NTI Scholarship Applicant Database
-Designed a relational database around a **42-response survey**, including the data model, cleaning, SQL queries, and a data story. **Public project files are being reviewed for participant privacy before I feature the repository here.**
+I lead the **product direction, workflow design, requirements, and hands-on review**, using **Codex and Claude Code** to assist with implementation. It is **not yet production-ready**; a separate public case study is being prepared without exposing the private commercial codebase.
 
-### 💳 [Digital Payments Analysis — DEPI](https://github.com/Peternab8/DEPI-final-project)
-A data analysis project focused on digital payment transactions. The repository is being organized to include more of the analysis materials.
+This builds on my earlier [Excel/VBA booking system](https://github.com/Peternab8/Event-Booking-Management-System).
 
-## 💡 Beyond Data Analysis
+## 🧰 Skills & tools
 
-I have also built practical systems for organizing event bookings and improving workflows, including an **Excel/VBA booking solution** used for real community events. I'm preparing those projects for public documentation.
+- **Analytics:** Excel, SQL, Python (Pandas), data cleaning, descriptive statistics
+- **Business intelligence:** Power BI, Tableau, reporting, KPI dashboards
+- **Databases:** SQL Server, MySQL, SQLite, relational data modeling
+- **Business & systems:** Requirements analysis, process mapping, UML, ERD, Excel VBA
+- **Currently exploring:** Product workflows and AI-assisted development
 
-## 🤝 Let's Connect
+## 🤝 Connect
 
-- [LinkedIn](https://www.linkedin.com/in/peter-nabilg/)
-- [GitHub projects](https://github.com/Peternab8?tab=repositories)
+[**LinkedIn**](https://www.linkedin.com/in/peter-nabilg/) · [**All GitHub projects**](https://github.com/Peternab8?tab=repositories)
 
-*Open to junior opportunities in Data Analytics, Business Intelligence, and Business Analysis.*
+*I care about clear analysis, practical solutions, and being transparent about what I built, what I collaborated on, and what is still in progress.*
